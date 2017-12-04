@@ -62,7 +62,7 @@
         <!-- lbs -->
         <meta-data
             android:name="com.baidu.lbsapi.API_KEY"
-            android:value="FzrnM3BFcOI9M4ZiWn0NvABCq0uWtyda"/>
+            android:value="DD279b2a90afdf0ae7a3796787a0742e"/>
 
         <activity
             android:name=".activity.SplashActivity"
